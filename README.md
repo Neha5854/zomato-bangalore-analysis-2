@@ -1,5 +1,5 @@
 
-# 🍽 Zomato Restaurant Delivery Prediction (Capstone Project)
+#  Zomato Restaurant Delivery Prediction (Capstone Project)
 
 This project builds a machine learning model to predict whether a restaurant offers home delivery, based on real-world Zomato Bangalore data. The goal is to explore business patterns and create a predictive system using classification models.
 
